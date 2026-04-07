@@ -22,9 +22,6 @@ O objetivo deste projeto é comparar diferentes modelos de classificação e ide
     execute 'pip install -r requirements.txt'
     execute 'python main.py'
 
-### Autor 👨‍💻
-Desenvolvido por Ruan Emanuell Alencar
-
 ### Apresentação e resultados 📊:
 
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/27475c4c-4016-4fca-ab2c-3208d0fc3450" />
@@ -33,3 +30,7 @@ Desenvolvido por Ruan Emanuell Alencar
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/07b8f4bc-ff2c-4a7d-8a94-7be2ec9b5a0b" />
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/7ff2d821-3047-47c9-bee6-ffcb2bf73f32" />
 <img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/e224cd44-b122-478f-a7cd-17070d1c8dc4" />
+
+### Autor 👨‍💻
+Desenvolvido por Ruan Emanuell Alencar
+

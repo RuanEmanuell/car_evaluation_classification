@@ -22,9 +22,6 @@ The goal of this project is to compare different classification models and ident
     run 'pip install -r requirements.txt'
     run 'python main.py'
 
-### Author 👨‍💻
-Developed by Ruan Emanuell Alencar
-
 ### Presentation and Results 📊:
 
 <img width="1920" height="1080" alt="Inglês (1)" src="https://github.com/user-attachments/assets/ec5b813b-28a0-43ac-92f0-c1e8dc1b9995" />
@@ -34,3 +31,5 @@ Developed by Ruan Emanuell Alencar
 <img width="1920" height="1080" alt="Inglês (5)" src="https://github.com/user-attachments/assets/f43c2dba-1d47-4dd9-aabb-06dc9a841791" />
 <img width="1920" height="1080" alt="Inglês (6)" src="https://github.com/user-attachments/assets/298632c9-fa38-495b-80fc-7a82925fa1ff" />
 
+### Author 👨‍💻
+Developed by Ruan Emanuell Alencar
