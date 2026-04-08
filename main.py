@@ -11,15 +11,13 @@ colunas = ["buying", "maint", "doors", "persons", "lug_boot", "safety", "class"]
 df = pd.read_csv("data/car.data", names=colunas)
 
 # Pré-processamento (Encoding)
-# Pré-processamento (Encoding)
-x = df.drop("class", axis=1)
-
-# 🔥 transformação binária
-y = df["class"].apply(lambda x: "unacc" if x == "unacc" else "acc")
-
-x = pd.get_dummies(x)
+le = LabelEncoder()
+for col in df.columns:
+    df[col] = le.fit_transform(df[col])
 
 # Separando x e y
+x = df.drop("class", axis=1)
+y = df["class"]
 
 # Modelos
 
@@ -88,5 +86,5 @@ print("Best Accuracy:", results[best_model])
 # KNN depende da distância entre os pontos e pode não ser tão eficiente com muitos dados categóricos.
 # Logistic Regression pode ter desempenho inferior pois assume relações lineares entre as variáveis, o que nem sempre é adequado para este tipo de problema.
 
-# Apesar de testar diferentes modelos como Decision Tree, KNN e Logistic Regression, a acurácia permaneceu em torno de 75–79%. 
+# Apesar de testar diferentes modelos como Decision Tree, KNN e Logistic Regression, a acurácia permaneceu em torno de 75–79%.
 # Isso ocorre porque o dataset é altamente desbalanceado, com predominância da classe "unacc", fazendo com que os modelos priorizem essa classe.
