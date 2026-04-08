@@ -28,7 +28,7 @@ The goal of this project is to compare different classification models and ident
 <img width="1920" height="1080" alt="Inglês (2)" src="https://github.com/user-attachments/assets/51307be7-714c-453d-95dc-e7c17c0fecfa" />
 <img width="1920" height="1080" alt="Inglês (3)" src="https://github.com/user-attachments/assets/2e0028ba-81d6-4e36-9c3f-75274ad1f8cf" />
 <img width="1920" height="1080" alt="Inglês (4)" src="https://github.com/user-attachments/assets/8036b03f-9f5e-4fa0-8c4f-b0e6d71bcb8c" />
-<img width="1920" height="1080" alt="Inglês (5)" src="https://github.com/user-attachments/assets/f43c2dba-1d47-4dd9-aabb-06dc9a841791" />
+<img width="1920" height="1080" alt="Inglês (5)" src="https://github.com/user-attachments/assets/c2c9ecde-593c-4054-986a-cea33e6c3ef6" />
 <img width="1920" height="1080" alt="Inglês (6)" src="https://github.com/user-attachments/assets/298632c9-fa38-495b-80fc-7a82925fa1ff" />
 
 ### Author 👨‍💻
