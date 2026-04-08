@@ -4,6 +4,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import GridSearchCV
 
 # Carregando os dados
 colunas = ["buying", "maint", "doors", "persons", "lug_boot", "safety", "class"]
@@ -21,10 +22,29 @@ y = df["class"]
 # Modelos
 
 # Decision Tree (com tuning)
-dt_model = DecisionTreeClassifier(max_depth=5)
+dt_params = {
+    "max_depth": [None, 5, 10, 15],
+    "min_samples_split": [2, 5, 10]
+}
+
+dt_model = GridSearchCV(
+    DecisionTreeClassifier(random_state=42),
+    dt_params,
+    cv=5
+)
+
 
 # KNN (com tuning)
-knn_model = KNeighborsClassifier(n_neighbors=5)
+knn_params = {
+    "n_neighbors": [3, 5, 7, 9],
+    "weights": ["uniform", "distance"]
+}
+
+knn_model = GridSearchCV(
+    KNeighborsClassifier(),
+    knn_params,
+    cv=5
+)
 
 # Logistic Regression
 lr_model = LogisticRegression(max_iter=1000)
