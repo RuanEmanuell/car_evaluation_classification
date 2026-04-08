@@ -28,7 +28,7 @@ O objetivo deste projeto é comparar diferentes modelos de classificação e ide
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/932406e2-0219-45f8-9a1a-fb69c63fa156" />
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/6d40e701-411e-41c8-b3d2-2e4dc237704d" />
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/07b8f4bc-ff2c-4a7d-8a94-7be2ec9b5a0b" />
-<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/7ff2d821-3047-47c9-bee6-ffcb2bf73f32" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/d82ee8c0-0b15-41be-b1e5-4205e1485670" />
 <img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/e224cd44-b122-478f-a7cd-17070d1c8dc4" />
 
 ### Autor 👨‍💻
