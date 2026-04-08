@@ -85,3 +85,8 @@ print("Best Accuracy:", results[best_model])
 # Decision Tree geralmente performa bem neste dataset porque consegue lidar melhor com dados categóricos e criar regras de decisão baseadas nos atributos.
 # KNN depende da distância entre os pontos e pode não ser tão eficiente com muitos dados categóricos.
 # Logistic Regression pode ter desempenho inferior pois assume relações lineares entre as variáveis, o que nem sempre é adequado para este tipo de problema.
+
+# === JUSTIFICATIVA TÉCNICA (ACURÁCIA 79% NO MELHOR MODELO - DECISION TREE) === 
+# 1. O 'LabelEncoder' ignora a ordem lógica (low < high), dificultando os cortes da árvore.
+# 2. O desbalanceamento (70% da classe 'unacc') faz o modelo priorizar a maioria.
+# 3. Hiperparâmetros do GridSearch focaram em generalização para evitar overfitting (quando o modelo "decora" os dados de treino e seus ruídos, perdendo a capacidade de acertar em dados novos.).
