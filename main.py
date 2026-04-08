@@ -90,3 +90,6 @@ print("Best Accuracy:", results[best_model])
 # Decision Tree geralmente performa bem neste dataset porque consegue lidar melhor com dados categóricos e criar regras de decisão baseadas nos atributos.
 # KNN depende da distância entre os pontos e pode não ser tão eficiente com muitos dados categóricos.
 # Logistic Regression pode ter desempenho inferior pois assume relações lineares entre as variáveis, o que nem sempre é adequado para este tipo de problema.
+
+# Apesar de testar diferentes modelos como Decision Tree, KNN e Logistic Regression, a acurácia permaneceu em torno de 75–79%.
+# Isso ocorre porque o dataset é altamente desbalanceado, com predominância da classe "unacc", fazendo com que os modelos priorizem essa classe.
