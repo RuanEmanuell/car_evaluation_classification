@@ -10,6 +10,12 @@ from sklearn.model_selection import GridSearchCV
 colunas = ["buying", "maint", "doors", "persons", "lug_boot", "safety", "class"]
 df = pd.read_csv("data/car.data", names=colunas)
 
+# Mostrando as 5 primeiras linhas do dataset
+df.head()
+
+# Mostrando algumas informações do Dataset
+df.info()
+
 # Pré-processamento (Encoding)
 le = LabelEncoder()
 for col in df.columns:
