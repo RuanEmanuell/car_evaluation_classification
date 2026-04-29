@@ -1,35 +1,30 @@
-# Veja a versão em Português <a href="README-ptbr.md">aqui</a>
+# See the English version <a href="README.md">here</a>
 
-## Car Evaluation Classification
+## Ciência de Dados (Python)
 
-### What is this? 🤔 
-This project applies machine learning classification algorithms using Python to the Car Evaluation dataset, available at the UCI Machine Learning Repository.
-The goal of this project is to compare different classification models and identify the best-performing one in predicting car acceptability based on multiple categorical features.
+### O que é isso? 🤔
 
-### Which tecnologies were used to build it? 🚀 
-<table><tr>
-        <td style="padding: 5px;">
-            <div style="background-color: #333; width: 200px; height: 50px; padding: 10px;">
-                <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg' width="25" height="25" style="border-radius: 5px;">
-                <p style="color: white; padding: 5px; margin: 0;">Python</p>
-            </div>
-        </td>
-    </tr>
-</table>
+Este repositório contém projetos de Data Science e Machine Learning desenvolvidos utilizando Python.
 
-### How to run 🏃
+Os projetos têm foco em aplicações práticas de classificação, regressão, pré-processamento de dados, avaliação de modelos e análise preditiva utilizando bases públicas de dados de plataformas como Kaggle e UCI Machine Learning Repository.
 
-    run 'pip install -r requirements.txt'
-    run 'python main.py'
+### Quais tecnologias foram usadas para construí-lo? 🚀
 
-### Presentation and Results 📊:
+<table>
+<tr>
+<td style="padding: 5px;">
+<div style="background-color: #333; width: 200px; height: 50px; padding: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25" style="border-radius: 5px;">
+<p style="color: white; padding: 5px; margin: 0;">Python</p>
+</div>
+</td>
 
-<img width="1920" height="1080" alt="Inglês (1)" src="https://github.com/user-attachments/assets/ec5b813b-28a0-43ac-92f0-c1e8dc1b9995" />
-<img width="1920" height="1080" alt="Inglês (2)" src="https://github.com/user-attachments/assets/51307be7-714c-453d-95dc-e7c17c0fecfa" />
-<img width="1920" height="1080" alt="Inglês (3)" src="https://github.com/user-attachments/assets/2e0028ba-81d6-4e36-9c3f-75274ad1f8cf" />
-<img width="1920" height="1080" alt="Inglês (4)" src="https://github.com/user-attachments/assets/de4bc791-70a4-4dfd-b512-2d7c22baf5ab" />
-<img width="1920" height="1080" alt="Inglês (5)" src="https://github.com/user-attachments/assets/b63cfdcb-82ba-4f90-8039-2513924c1412" />
-<img width="1920" height="1080" alt="Inglês (6)" src="https://github.com/user-attachments/assets/298632c9-fa38-495b-80fc-7a82925fa1ff" />
+### Projetos 📂
 
-### Author 👨‍💻
-Developed by Ruan Emanuell Alencar
+- Classificação de Avaliação de Carros
+- Predição da Taxa de Captura de Pokémon
+- Mais projetos em breve...
+
+### Autor 👨‍💻
+
+Desenvolvido por Ruan Emanuell Alencar
