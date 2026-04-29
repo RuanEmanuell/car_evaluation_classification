@@ -1,6 +1,3 @@
-Desenvolvido por Ruan Emanuell Alencar
-
-
 # Veja a versão em Português <a href="README-ptbr.md">aqui</a>
 
 ## Data Science (Python)
