@@ -1,14 +1,14 @@
-# Veja a versão em Português <a href="README-ptbr.md">aqui</a>
+# See the English version <a href="README.md">here</a>
 
-## Data Science (Python)
+## Ciência de Dados (Python)
 
-### What is this? 🤔
+### O que é isso? 🤔
 
-This repository contains Data Science and Machine Learning projects developed using Python.
+Este repositório contém projetos de Data Science e Machine Learning desenvolvidos utilizando Python.
 
-The projects focus on practical applications of classification, regression, data preprocessing, model evaluation, and predictive analysis using public datasets from platforms such as Kaggle and UCI Machine Learning Repository.
+Os projetos têm foco em aplicações práticas de classificação, regressão, pré-processamento de dados, avaliação de modelos e análise preditiva utilizando bases públicas de dados de plataformas como Kaggle e UCI Machine Learning Repository.
 
-### Which technologies were used to build it? 🚀
+### Quais tecnologias foram usadas para construí-lo? 🚀
 
 <table>
 <tr>
@@ -18,14 +18,11 @@ The projects focus on practical applications of classification, regression, data
 <p style="color: white; padding: 5px; margin: 0;">Python</p>
 </div>
 </td>
-</table>
 
-### Projects 📂
+### Projetos 📂
 
-- Car Evaluation Classification
-- Pokémon Capture Rate Prediction
-- More projects coming soon...
+- Classificação de Avaliação de Carros
+- Predição da Taxa de Captura de Pokémon
+- Mais projetos em breve...
 
-### Author 👨‍💻
-
-Developed by Ruan Emanuell Alencar
+### Autor 👨‍💻
