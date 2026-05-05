@@ -32,8 +32,8 @@ The goal of this project is to compare different regression models and identify 
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/cb4498de-8fc5-4deb-a2a8-92a77592be8e" />
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/108ae7a3-e3f8-4406-ac07-2e8376ec6bca" />
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/ae356a3f-2792-4cf1-8547-3c866461b83f" />
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/3f78caaf-3adb-41b4-ba20-41e54871399d" />
-<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/91b9b7bb-e438-4be0-9785-0515cf5c3307" />
+<img width="1600" height="900" alt="6" src="https://github.com/user-attachments/assets/759eb129-ec38-41eb-a770-7f4113fdaf49" />
+<img width="1600" height="900" alt="7" src="https://github.com/user-attachments/assets/80b81bf0-7769-4209-bafe-ad818cbfe4f5" />
 <img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/edfaf0f2-cadb-4441-8b9c-c64d76aac1d8" />
 
 ### Author 👨‍💻
